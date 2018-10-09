@@ -93,3 +93,9 @@ margin-bottom: 20px;
   font-size: 66px;
   padding-right: 5rem;
 }
+.resume-right-col {
+  background: rgb(41, 18, 122);
+  color: white;
+  padding: 2em;
+
+}

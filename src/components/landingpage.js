@@ -9,7 +9,7 @@ class Landing extends Component {
                 <Grid className="landing-grid">
                     <Cell col={12}>
                         <img
-                            src={require("../image/myPic.JPG")}
+                            src={require("../images/myPic.JPG")}
                             alt="character"
                             className="character-img"
                         />
@@ -17,7 +17,7 @@ class Landing extends Component {
                         <div className="banner-text">
                             <h1>Full Stack Web Developer</h1>
                             <hr />
-                            <p>HTML5/CSS3 | JavaScript | jQuery | Bootstrap | React.js | Node.js | Express | MongoDB | MySQL | </p>
+                            <p>HTML5/CSS3 | JavaScript | jQuery | Bootstrap | React.js | Node.js | Express | MongoDB | MySQL</p>
 
                             <div className="social-links">
 

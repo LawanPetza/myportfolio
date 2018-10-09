@@ -62,7 +62,34 @@ background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, F
   color: white;
   font-size: 4em;
   padding:  8px;
-
-
-
+}
+.contact-body {
+  margin: auto;
+  background: grey;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top:  2em;
+}
+.contact-grid {
+text-align: center;
+justify-content: center;
+width: 80%;
+height: 550px;
+background: white;
+color: black;
+border: 2px solid red;
+margin-bottom: 20px;
+}
+.contact-grid h2 {
+  font-family: 'Anton', sans-serif;
+}
+.contact-grid p {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+}
+.contact-list i {
+  font-size: 66px;
+  padding-right: 5rem;
 }
